@@ -17,6 +17,9 @@ body{
 .top-banner{
 	background-color: #264653;
 }
+h1{
+    font-size: 48px;
+}
 .header-name{
 	color: #E0E0E0;
 }
