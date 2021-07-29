@@ -1,8 +1,4 @@
 /* ----------------
-     Fonts Style
-    ---------------  */
-
-/* ----------------
    Common Styles or Utilities
    -----------------  */
 body{
@@ -11,20 +7,11 @@ body{
 .orange{
     color: #E76F51;
 }
-/* --------------------
-   Banner Section Style
---------------------- */
 .top-banner, .trending-bg, .contact-bg{
 	background-color: #264653;
 }
 .font-large{
     font-size: 48px;
-}
-.header-name{
-	color: #E0E0E0;
-}
-.honda-details{
-    font-size: small;
 }
 .custom-btn{
     color: white;
@@ -34,10 +21,24 @@ body{
     border-radius: 5px;
     font-weight: 500;
 }
-/* Featured Bikes Section */
+/* --------------------
+   Banner Section Style
+--------------------- */
+.header-name{
+	color: #E0E0E0;
+}
+.honda-details{
+    font-size: small;
+}
+/* --------------------
+  Featured Bikes Section
+  --------------------- */
 .gray-scale {
     filter: grayscale(100%);
 }
+/* --------------------
+     Client Rating
+-------------------- */
 .fa-star-style{
  color: #E77C40;
 }
