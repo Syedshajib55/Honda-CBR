@@ -14,7 +14,7 @@ body{
 /* --------------------
    Banner Section Style
 --------------------- */
-.top-banner, .trending-bg{
+.top-banner, .trending-bg, .contact-bg{
 	background-color: #264653;
 }
 .font-large{
