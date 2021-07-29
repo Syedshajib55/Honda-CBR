@@ -14,10 +14,10 @@ body{
 /* --------------------
    Banner Section Style
 --------------------- */
-.top-banner{
+.top-banner, .trending-bg{
 	background-color: #264653;
 }
-h1{
+.font-large{
     font-size: 48px;
 }
 .header-name{
@@ -26,7 +26,7 @@ h1{
 .honda-details{
     font-size: small;
 }
-.customize-btn{
+.custom-btn{
     color: white;
     background-color: #E76F51;
     padding: 10px 45px;
